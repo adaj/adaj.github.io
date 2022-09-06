@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Adelson started his PhD in the Department of Instructional Technology of the University of Twente (the Netherlands) in 2020, supervised by Ton de Jong, Susan McKenney, and Pantelis Papadopoulos.
+I am a PhD student at the University of Twente's Department of Instructional Technology, where I am supervised by Ton de Jong, Susan McKenney, and Pantelis Papadopoulos.
 
-In my PhD, I investigates how conversational agents can support dyads of students talking productively in online science labs. This involves several design challenges, because off-the-shelf chatbots solutions are not designed to handle group communication. My PhD is not centered in a technical contribution solely, but primarily, I am eager to help teachers and students improve their learning experience through productive peer communication.
+I am currently studying how conversational agents can help dyads of students talk productively in online science labs. Because off-the-shelf chatbot solutions are not designed to handle group communication, this presents several design challenges. Rather than just making a technical contribution, my primary motivation is to provide evidence on the role that conversational agents can play in fostering more effective student dialogue.
 
-My bachelor was in Computer Engineering, and M.Sc. in Systems & Computing, both at the Federal University of Rio Grande do Norte (Brazil). During my bachelor and masters, I assisted the SmartMetropolis group and published my first conference papers. To support my project on predictive policing, I had the great opportunity to receive two research prizes from Google LARA (Latin America Research Awards, 2018 and 2019). I also worked as a data engineer in the Public Ministry of Rio Grande do Norte, managing a data lake infrastructure, supervising interns, and developing dashboards to help prosecutors analyze public budget-related issues.
+My bachelor's degree was in computer engineering, and my master's degree was in systems and computing, both from the Federal University of Rio Grande do Norte (Brazil). While I was there, the SmartMetropolis group gave me my first taste of research publication. I was fortunate enough to win two Google LARA (Latin America Research Awards) research prizes in 2018 and 2019 to put toward my predictive policing project. In addition, I worked as a data engineer in the Public Ministry of Rio Grande do Norte, where I led interns, managed a data lake infrastructure, and built dashboards to help prosecutors analyze public budget-related issues.
 
-My current research interests are conversational agents, computer-supported collaborative learning, language models, and ethics in AI.
+My current research interests include conversational agents, computer-supported collaborative learning, language models, and AI ethics.
