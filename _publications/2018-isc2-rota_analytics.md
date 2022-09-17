@@ -5,7 +5,7 @@ permalink: /publication/2018-rota_analytics
 excerpt: 'ROTA-Analytics supports multiple machine and statistical learning methods selection to create an environment of crime prediction in different areas of the city.'
 date: 2018-09-14
 venue: '2017 International Smart Cities Conference (ISC2)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8090817'
 citation: 'A. Araujo, N. Cacho, A. C. Thome, A. Medeiros and J. Borges, "A predictive policing application to support patrol planning in smart cities," 2017 International Smart Cities Conference (ISC2), 2017, pp. 1-6, doi: 10.1109/ISC2.2017.8090817.'
 ---
 

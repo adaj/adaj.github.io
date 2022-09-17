@@ -5,7 +5,7 @@ permalink: /publication/2020-crimescience-systematic_review
 excerpt: 'Although we identified several opportunities and strengths there are also some weaknesses and threats for which we provide suggestions.'
 date: 2020-05-27
 venue: 'Crime Science'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://link.springer.com/article/10.1186/s40163-020-00116-7'
 citation: 'Kounadi, O., Ristea, A., Araujo, A. et al. A systematic review on spatial crime forecasting. Crime Sci 9, 7 (2020). https://doi.org/10.1186/s40163-020-00116-7'
 ---
 
