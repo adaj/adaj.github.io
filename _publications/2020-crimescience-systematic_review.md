@@ -2,7 +2,7 @@
 title: "A systematic review on spatial crime forecasting"
 collection: publications
 permalink: /publication/2020-crimescience-systematic_review
-excerpt: 'Although we identified several opportunities and strengths there are also some weaknesses and threats for which we provide suggestions.'
+excerpt: 'We follow the PRISMA guidelines for reporting this systematic literature review and we analyse 32 papers from 2000 to 2018. We identified several opportunities and strengths there are also some weaknesses and threats for which we provide suggestions.'
 date: 2020-05-27
 venue: 'Crime Science'
 paperurl: 'https://link.springer.com/article/10.1186/s40163-020-00116-7'
