@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a PhD student at the Department of Learning, Data analytics and Technology (LDT) at University of Twente, where I am supervised by [Ton de Jong](https://users.gw.utwente.nl/jong/), [Susan McKenney](https://people.utwente.nl/susan.mckenney), and [Pantelis Papadopoulos](https://people.utwente.nl/p.m.papadopoulos).
 
-In my PhD, I created and evaluated [Clair](https://clair.chat/), a conversational agent that foster productive student-student collaboration. 
+In my PhD, I created and evaluated [Clair](https://clair.chat/), a conversational agent that foster productive student-student collaboration. Clair was recently featured at the NPulse magazine, a publication of the [Netherlands AI Coalition](https://nlaic.com/). You can read the article [here](https://adaj.github.io/files/Npuls.pdf).
 
 I am broadly interested in investigating how data-driven applications can be designed to support the development of 21st-century skills, such as critical thinking, creativity, and collaboration. But also, I am an entushiast of the use of technology in the smart cities domain, including the development of predictive policing systems, and the use of AI in the public sector.
 
