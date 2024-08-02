@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Twente's Department of Instructional Technology, where I am supervised by Ton de Jong, Susan McKenney, and Pantelis Papadopoulos.
+Welcome! I am a PhD student at the Department of Learning, Data analytics and Technology (LDT) at University of Twente, where I am supervised by [Ton de Jong](https://users.gw.utwente.nl/jong/), [Susan McKenney](https://people.utwente.nl/susan.mckenney), and [Pantelis Papadopoulos](https://people.utwente.nl/p.m.papadopoulos).
 
-In my PhD, my primary motivation is to provide evidence on the role that conversational agents can play in fostering productive dialogues during online science lessons. For that, I am implementing a conversational agent that handles group conversation in a pedagogically meaningful way with the help of AI.
+In my PhD, I created and evaluated [Clair](https://clair.chat/), a conversational agent that foster productive student-student collaboration. 
 
-My bachelor's degree was in computer engineering, and my master's degree was in systems and computing, both from the Federal University of Rio Grande do Norte (Brazil). While I was there, the SmartMetropolis group gave me my first taste of research publication. I was fortunate enough to win two Google LARA (Latin America Research Awards) research prizes in 2018 and 2019 to put toward my predictive policing project. In addition, I worked as a data engineer in the Public Ministry of Rio Grande do Norte, where I led interns, managed a data lake infrastructure, and built dashboards to help prosecutors analyze public budget-related issues.
+I am broadly interested in investigating how data-driven applications can be designed to support the development of 21st-century skills, such as critical thinking, creativity, and collaboration. But also, I am an entushiast of the use of technology in the smart cities domain, including the development of predictive policing systems, and the use of AI in the public sector.
 
-My current research interests include conversational agents, computer-supported collaborative learning, language models, and AI ethics.
+Please feel free to reach out to me if you would like to collaborate on a project. I am always looking for new opportunities to learn and grow. 
+
