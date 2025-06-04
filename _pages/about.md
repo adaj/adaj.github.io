@@ -8,11 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student at the Department of Learning, Data analytics and Technology (LDT) at University of Twente, where I am supervised by [Ton de Jong](https://users.gw.utwente.nl/jong/), [Susan McKenney](https://people.utwente.nl/susan.mckenney), and [Pantelis Papadopoulos](https://people.utwente.nl/p.m.papadopoulos).
+# About
+Adelson D. de Araujo jr, Ph.D., is a computer scientist and educator specializing in artificial intelligence in education and smart-city technologies. His work bridges academic research and real-world applications through innovative machine-learning projects.
 
-In my PhD, I created and evaluated [Clair](https://clair.chat/), a conversational agent that foster productive student-student collaboration. Clair was recently featured at the NPulse magazine, a publication of the [Netherlands AI Coalition](https://nlaic.com/). You can read the article [here](https://adaj.github.io/files/Npuls.pdf).
+## Academic Background
+Adelson completed a Ph.D. in Instructional Technology at the University of Twente (Netherlands) in 2024. His doctoral research produced a collaborative conversational agent called **[Clair](https://clair.chat)** to foster productive group learning—an innovation recognized with the *2024 Learning Agency Tools Competition Catalyst Award* and featured in the Netherlands AI Coalition’s *N-Pulse* magazine.
+Adelson earned a Master’s degree in Systems and Computing from the Federal University of Rio Grande do Norte (UFRN) in 2019, contributing to the *Smart Metropolis* project in Natal, where he developed crime-prediction models that won *Google Latin America Research Awards* in 2018 and 2019.  
+Over the course of his studies, Adelson built expertise in machine learning, AI in education, MLOps, smart cities, and predictive policing.
 
-I am broadly interested in investigating how data-driven applications can be designed to support the development of 21st-century skills, such as critical thinking, creativity, and collaboration. But also, I am an entushiast of the use of technology in the smart cities domain, including the development of predictive policing systems, and the use of AI in the public sector.
+## Current Roles & Collaborations
+Adelson is an Assistant Professor at the [Instituto Metrópole Digital (IMD) – UFRN](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3465111) in Natal, Brazil, where he teaches courses on Artificial Intelligence in Education (AIED) and Machine Learning Operations (MLOps).
+He collaborates with Brazil’s innovation-agency program [EMBRAPII](https://embrapii.org.br/unidades/internet-das-coisas-iot-metropole-digital-ufrn/) to develop machine-learning solutions for the smart-cities sector, focusing on IoT-driven urban-infrastructure projects.
 
-Please feel free to reach out to me if you would like to collaborate on a project. I am always looking for new opportunities to learn and grow. 
+## Vision & Impact
+Adelson’s current work advances two complementary goals:
+1. Smart-city ML/IoT products – Leveraging urban IoT data and machine learning to improve public safety, transportation, and infrastructure through industry–academic partnerships such as EMBRAPII.
+2. AI-literacy EdTech – Designing accessible tools that promote AI literacy among middle- and high-school students, responding to the growing consensus that data and AI skills are essential for K-12 learners.
 
