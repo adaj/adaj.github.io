@@ -1,27 +1,42 @@
 ---
+layout: splash
 permalink: /
-title: "About Adelson"
-excerpt: "About me"
+title: "Adelson D. de Araujo Jr."
+excerpt: "Adjunct Professor at Instituto Metrópole Digital (UFRN)"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /images/image-alignment-1200x4002.jpg
+  overlay_filter: 0.3
+  cta_label: "Download CV"
+  cta_url: "/files/CV.pdf"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
+feature_row:
+  - image_path: /images/bio-photo.jpg
+    alt: "Research"
+    title: "Research"
+    excerpt: "Selected work in AI and smart cities."
+    url: "/publications/"
+    btn_label: "Publications"
+    btn_class: "btn--primary"
+  - image_path: /images/AID-E_talk.jpg
+    alt: "Teaching"
+    title: "Teaching"
+    excerpt: "Courses on AI in Education and MLOps."
+    url: "/teaching/"
+    btn_label: "Teaching"
+    btn_class: "btn--primary"
+  - image_path: /images/editing-talk.png
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Updates and insights."
+    url: "/year-archive/"
+    btn_label: "Read Blog"
+    btn_class: "btn--primary"
 ---
 
-# About
-Adelson D. de Araujo jr, Ph.D., is a computer scientist and educator specializing in artificial intelligence in education and smart-city technologies. His work bridges academic research and real-world applications through innovative machine-learning projects.
+Adelson D. de Araujo Jr., Ph.D., is an Adjunct Professor at the Instituto Metrópole Digital at the Federal University of Rio Grande do Norte (UFRN). He obtained his PhD in Instructional Technology from the University of Twente (2024), where he created Clair, a collaborative conversational agent that received the Catalyst Award of the Learning Agency Tools Competition 2024. Previously, Adelson discovered the Master's degree in Systems and Computing at UFRN (2019). During that period, they developed crime prediction models for the IMD SmartMetropolis project, where he twice won the Google Latin America Research Awards in 2018 and 2019. He currently teaches courses on Artificial Intelligence in Education and Machine Learning Operations.
 
-## Academic Background
-Adelson completed a Ph.D. in Instructional Technology at the University of Twente (Netherlands) in 2024. His doctoral research produced a collaborative conversational agent called **[Clair](https://clair.chat)** to foster productive group learning—an innovation recognized with the *2024 Learning Agency Tools Competition Catalyst Award* and featured in the Netherlands AI Coalition’s *N-Pulse* magazine.
-Adelson earned a Master’s degree in Systems and Computing from the Federal University of Rio Grande do Norte (UFRN) in 2019, contributing to the *Smart Metropolis* project in Natal, where he developed crime-prediction models that won *Google Latin America Research Awards* in 2018 and 2019.  
-Over the course of his studies, Adelson built expertise in machine learning, AI in education, MLOps, smart cities, and predictive policing.
-
-## Current Roles & Collaborations
-Adelson is an Assistant Professor at the [Instituto Metrópole Digital (IMD) – UFRN](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3465111) in Natal, Brazil, where he teaches courses on Artificial Intelligence in Education (AIED) and Machine Learning Operations (MLOps).
-He collaborates with Brazil’s innovation-agency program [EMBRAPII](https://embrapii.org.br/unidades/internet-das-coisas-iot-metropole-digital-ufrn/) to develop machine-learning solutions for the smart-cities sector, focusing on IoT-driven urban-infrastructure projects.
-
-## Vision & Impact
-Adelson’s current work advances two complementary goals:
-1. Smart-city ML/IoT products – Leveraging urban IoT data and machine learning to improve public safety, transportation, and infrastructure through industry–academic partnerships such as EMBRAPII.
-2. AI-literacy EdTech – Designing accessible tools that promote AI literacy among middle- and high-school students, responding to the growing consensus that data and AI skills are essential for K-12 learners.
-
+{% include feature_row %}
